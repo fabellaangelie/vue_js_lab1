@@ -1,0 +1,16 @@
+<template>
+	<div class="hero-area hero-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9 offset-lg-2 text-center">
+					<div class="hero-text">
+						<div class="hero-text-tablecell">
+							<p class="subtitle"></p>
+							<h1>Manage Area</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</template>
